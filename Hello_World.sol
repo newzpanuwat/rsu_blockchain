@@ -1,5 +1,5 @@
-//SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.7;
+//SPDX-License-Identifier: UNLICENSE
+pragma solidity ^0.8.17;
 
 contract HelloWorld {
     string public message;
@@ -12,7 +12,7 @@ contract HelloWorld {
         return message;
     }
 
-    function setMessage(string memory _message) public {
+    function setMessage(string memory _message) public virtual {
         message = _message;
     }
 }
