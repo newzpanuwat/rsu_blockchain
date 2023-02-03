@@ -1,5 +1,5 @@
 # rsu_blockchain
-RSU Blockchain &amp; Smart Contract Course Dec 2022 - FEB 2022
+RSU Blockchain &amp; Smart Contract Course Dec 2022 - MAR 2022
 
 # Learn
 - What is blockhain ?
